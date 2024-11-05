@@ -100,3 +100,6 @@ EDA involved the exploring of data to answer questions about -
 - Highest-selling product by total sales value
 
 
+## 9. Data Visualisations.
+
+
