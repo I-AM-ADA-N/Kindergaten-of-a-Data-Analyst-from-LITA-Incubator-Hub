@@ -11,7 +11,26 @@ On this journey, I am willing and ready to collaborate with a top-rated data ana
 
 
 
-## My Learning Curve:	Elementary and Intermediate Data Analysis.
+## My Learning Overview: Elementary and Intermediate Data Analysis.
+
+[Foundation of Data](#foundation-of-data)
+
+[Introduction to SQL](#introduction-to-sql)
+
+[Portfolio Building](#portfolio-building)
+
+[Introduction to Power BI](#introduction-to-power-bi)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Tasks executed with Tools Used](#tasks-executed-with-tools-used)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data visualisations](#data-visualisations)
+
 
 ## 1. Foundation of Data.
 ---
