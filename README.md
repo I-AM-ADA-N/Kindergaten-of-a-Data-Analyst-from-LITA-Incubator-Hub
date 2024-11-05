@@ -32,21 +32,21 @@ On this journey, I am willing and ready to collaborate with a top-rated data ana
 [Data visualisations](#data-visualisations)
 
 
-## 1. Foundation of Data.
+## 1. Foundation of Data
 ---
 		- Introduction to Ms Excel.
 		- Basic Excel Functions.
 		- Reports and Dashboards in Excelarning.
   
-## 2. Introduction to SQL.
+## 2. Introduction to SQL
 ---
 		- Databases; Types and Advantages.
 		- Commands, Data types, Table Creation, Keys, Operators, Clauses, Joins, Aggregatio, Views, Case When Statement.
 		
-## 3. Portfolio Building.
+## 3. Portfolio Building
 ---
 		
-## 4. Introduction to Power BI.
+## 4. Introduction to Power BI
 ---
 		- Problem Definition and Goals.
 		- Data Collection and Wrangling.
@@ -54,14 +54,14 @@ On this journey, I am willing and ready to collaborate with a top-rated data ana
 
 
   
-## 5. Data Sources.
+## 5. Data Sources
 ---
 
 The primary sources of data used here are -
 
 
 
-## 6. Tools Used.
+## 6. Tools Used
 ---
 
 i. Ms Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel) for data cleaning, analysis and visualisation.
@@ -73,7 +73,7 @@ iii. Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/pro
 iv. Github [Download Here](https://desktop.github.com/download) for portfolio building.
 
 
-## 7. Tasks executed with Tools Used.
+## 7. Tasks executed with Tools Used
 ---
 
     i. Ms Excel
@@ -108,7 +108,7 @@ iv. Github [Download Here](https://desktop.github.com/download) for portfolio bu
       - Professional and social networking/ collaboration
 
 
-## 8. Exploratory Data Analysis.
+## 8. Exploratory Data Analysis
 ---
 
 EDA involved the exploring of data to answer questions about -
@@ -119,6 +119,6 @@ EDA involved the exploring of data to answer questions about -
 - Highest-selling product by total sales value
 
 
-## 9. Data Visualisations.
+## 9. Data Visualisations
 
 
