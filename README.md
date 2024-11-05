@@ -115,4 +115,6 @@ https://github.com/I-AM-ADA-N/Kindergaten-of-a-Data-Analyst-from-LITA-Incubator-
 
 https://github.com/I-AM-ADA-N/Kindergaten-of-a-Data-Analyst-from-LITA-Incubator-Hub/blob/main/Basic%20Excel%20Functions%2C%20Conditionals.PNG
 
+https://github.com/I-AM-ADA-N/Kindergaten-of-a-Data-Analyst-from-LITA-Incubator-Hub/blob/main/Text%20Cleaning%202%2C%20Applied%20Steps.PNG
+
 
