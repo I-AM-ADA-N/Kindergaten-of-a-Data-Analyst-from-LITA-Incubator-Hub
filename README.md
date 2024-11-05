@@ -4,8 +4,7 @@ I began my career in Sales and Marketing but gradually, my professional interest
 
 In my current role as dealer and distributor, business intelligence has become a focus especially concerning customer information, re-ordering and data. 
 
-Having just concluded elementary and intermediate classes in Ms Excel, SQL and Power BI for Data Analysis at the Incubator Hub, I have become a continous data analyst and an aspiring senior business 
-intelligence.
+Having just concluded elementary and intermediate classes in Ms Excel, SQL and Power BI for Data Analysis at the Incubator Hub, I have become a continous data analyst and an aspiring senior business analyst.
 
 On this journey, I am willing and ready to collaborate with a top-rated data analytics organisation whose mission is to forge strategic partnerships for scaling businesses.
 
@@ -30,9 +29,6 @@ On this journey, I am willing and ready to collaborate with a top-rated data ana
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Data visualizations](#data-visualizations)
-
-[Recommendations](#recommendations)
-
 
 ## Foundation of Data
 ---
@@ -59,7 +55,7 @@ On this journey, I am willing and ready to collaborate with a top-rated data ana
 ## Data Sources
 ---
 
-The primary sources of data used here are -
+The primary sources of data used here are open sources.
 
 
 
@@ -86,17 +82,9 @@ iv. Github [Download Here](https://desktop.github.com/download) for portfolio bu
 
           
     ii. SQL
-    - Quering of data with functions -
-      
-      ```SQL
-      SELECT * FROM TABLE1
-      WHERE CONDITION = TRUE
-      ```
-      
-      Grouping, Join, Having ...
-
-
-     iii. Power BI	
+    - Quering of data with functions      
+    
+    iii. Power BI	
       
       - Connect to data
       - Add data sources
@@ -115,14 +103,10 @@ iv. Github [Download Here](https://desktop.github.com/download) for portfolio bu
 
 EDA involved the exploring of data to answer questions about -
 
-- Total sales for each product category
-- Number of sales transactions for each region
-- Number of sales transactions in each region
-- Highest-selling product by total sales value
+- Text Cleaning
+- HR Data
+- Sales Performance Data
+- Loan Data
 
 
 ## Data Visualizations
-
-## Recommendations
-
-
