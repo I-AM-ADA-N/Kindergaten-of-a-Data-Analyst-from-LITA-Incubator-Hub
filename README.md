@@ -31,6 +31,8 @@ On this journey, I am willing and ready to collaborate with a top-rated data ana
 
 [Data visualizations](#data-visualizations)
 
+[Recommendations](#recommendations)
+
 
 ## Foundation of Data
 ---
@@ -120,5 +122,7 @@ EDA involved the exploring of data to answer questions about -
 
 
 ## Data Visualizations
+
+## Recommendations
 
 
