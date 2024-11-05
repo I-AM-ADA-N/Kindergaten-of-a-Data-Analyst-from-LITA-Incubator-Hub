@@ -111,6 +111,13 @@ EDA involved the exploring of data to answer questions about -
 
 ## Data Visualizations
 
+![Text Cleaning 2, Applied Steps](https://github.com/user-attachments/assets/7722f3e3-53cb-42eb-80cc-b46af28018ac)
+
+![Basic Excel Functions](https://github.com/user-attachments/assets/2bb9602c-c029-4242-9c94-675b4d72d22e)
+
+![Basic Excel Functions, Conditionals](https://github.com/user-attachments/assets/502e84c0-5386-4d10-98ee-35166d10a964)
+
+![My First Power BI Dashboard](https://github.com/user-attachments/assets/f164c881-393a-4241-98a9-6158e2187b27)
 
 
 
