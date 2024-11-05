@@ -113,4 +113,6 @@ EDA involved the exploring of data to answer questions about -
 
 https://github.com/I-AM-ADA-N/Kindergaten-of-a-Data-Analyst-from-LITA-Incubator-Hub/blob/main/Basic%20Excel%20Functions.PNG
 
+https://github.com/I-AM-ADA-N/Kindergaten-of-a-Data-Analyst-from-LITA-Incubator-Hub/blob/main/Basic%20Excel%20Functions%2C%20Conditionals.PNG
+
 
