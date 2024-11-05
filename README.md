@@ -111,4 +111,6 @@ EDA involved the exploring of data to answer questions about -
 
 ## Data Visualizations
 
+https://github.com/I-AM-ADA-N/Kindergaten-of-a-Data-Analyst-from-LITA-Incubator-Hub/blob/main/Basic%20Excel%20Functions.PNG
+
 
